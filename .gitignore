@@ -1,0 +1,9 @@
+speechify_api.txt
+*_api.txt
+__pycache__/
+.DS_Store
+/voice1.wav
+API/
+*.api.txt
+*-api.txt
+secrets*
